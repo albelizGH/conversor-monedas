@@ -43,3 +43,10 @@ Simplemente sigue las instrucciones en pantalla e ingresa la cantidad que deseas
 
 - Beliz Alejo https://github.com/albelizGH
 
+![Captura de pantalla 2024-04-29 193333](https://github.com/albelizGH/conversor-monedas/assets/129092769/b3076c02-6827-4406-bba6-0a2399de0664)
+
+![Captura de pantalla 2024-04-29 193404](https://github.com/albelizGH/conversor-monedas/assets/129092769/4bf4e403-0b16-47e6-b43e-9456dc614282)
+
+![Captura de pantalla 2024-04-29 193426](https://github.com/albelizGH/conversor-monedas/assets/129092769/02a7b463-e362-40e5-917e-bf09e77d0d60)
+
+![Captura de pantalla 2024-04-29 193457](https://github.com/albelizGH/conversor-monedas/assets/129092769/efed1c35-869e-446b-bf35-88b51c6308cf)
