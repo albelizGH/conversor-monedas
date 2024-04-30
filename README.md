@@ -9,7 +9,7 @@ Este es un programa simple en Java que te permite convertir entre diferentes mon
 
 ## Instalación
 
-1. Clona el repositorio a tu máquina local: git clone https://github.com/albelizGH/conversor-de-monedas.git
+1. Clona el repositorio a tu máquina local: git clone https://github.com/albelizGH/conversor-monedas
 
 
 2. Abre el proyecto en tu IDE preferido.
