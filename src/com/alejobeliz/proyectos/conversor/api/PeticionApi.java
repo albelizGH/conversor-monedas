@@ -25,7 +25,7 @@ public class PeticionApi {
      * @throws InterruptedException Si la ejecución es interrumpida mientras se espera la respuesta de la solicitud HTTP.
      */
     public MonedaRecord generarPeticion() throws IOException, InterruptedException {
-        String apiKey = "dc518dff17d7c34af01c2aea";
+        String apiKey = ${EXCH_RATE_APIKEY};//Tu clave de API https://www.exchangerate-api.com/docs/java-currency-api
 
         // Establecer la URI de la API con la clave de la API proporcionada y USD como moneda base.
         URI direccion = URI.create("https://v6.exchangerate-api.com/v6/" + apiKey + "/latest/USD");
